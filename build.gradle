@@ -30,12 +30,10 @@ dependencies {
 
     implementation('org.springframework.boot:spring-boot-starter-data-jpa')
     implementation('org.springframework.boot:spring-boot-starter-web')
-//    compile ('org.springframework.boot:spring-boot-starter-security:2.2.6.RELEASE')
 
     compile('mysql:mysql-connector-java')
     runtimeOnly('com.h2database:h2')
 
-//    testCompile('org.springframework.security:spring-security-test:5.3.1.RELEASE')
     testImplementation('org.springframework.boot:spring-boot-starter-test')
     testCompile('junit:junit:4.12')
 
