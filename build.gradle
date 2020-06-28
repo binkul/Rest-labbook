@@ -30,14 +30,19 @@ dependencies {
 
     implementation('org.springframework.boot:spring-boot-starter-data-jpa')
     implementation('org.springframework.boot:spring-boot-starter-web')
+    compile('org.springframework.boot:spring-boot-starter-aop')
 
     compile('mysql:mysql-connector-java')
     runtimeOnly('com.h2database:h2')
+    compile('com.google.code.gson:gson:2.8.6')
+    compile('org.springframework.boot:spring-boot-starter-actuator')
 
     testImplementation('org.springframework.boot:spring-boot-starter-test')
     testCompile('junit:junit:4.12')
 
     compile('org.springframework.boot:spring-boot-starter-mail:2.2.5.RELEASE')
+    compile('org.apache.commons:commons-lang3:3.9')
+
     compile('io.springfox:springfox-swagger2:2.7.0')
     compile('io.springfox:springfox-swagger-ui:2.7.0')
 }
