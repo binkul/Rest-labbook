@@ -8,17 +8,7 @@ The application for laboratory staff. It allows you to keep notes, prepare recip
 - Hibernate
 
 ## 3. DEMO
-- https://snipboard.io/gVlneT.jpg
-- https://snipboard.io/YBXfp7.jpg
-- https://snipboard.io/Q0yTXN.jpg
-- https://snipboard.io/h1E3sb.jpg
-- https://snipboard.io/SO9dzc.jpg
-- https://snipboard.io/b9gCnO.jpg
-- https://snipboard.io/13aJdg.jpg
-- https://snipboard.io/WJPtzH.jpg
-- https://snipboard.io/KP4zfY.jpg
-- https://snipboard.io/7RXeKw.jpg
-- https://snipboard.io/y6Gr0F.jpg
+https://labbook-backend-api.herokuapp.com/swagger-ui.html
 
 ## 4. REQUIREMENTS
 Locally installed IntelliJ or another JAVA IDE environment.
